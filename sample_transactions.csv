@@ -1,0 +1,193 @@
+date,description,amount
+2025-01-01,Salary Credit,50000.0
+2025-01-01,Uber Ride,-637.0
+2025-01-01,Fuel Station,-1703.0
+2025-01-04,Electricity Bill,-1739.0
+2025-01-04,Spotify,-2683.0
+2025-01-07,Rent Payment,-466.0
+2025-01-10,Grocery Store,-1004.0
+2025-01-13,Fuel Station,-1192.0
+2025-01-13,Zomato Order,-2019.0
+2025-01-16,Spotify,-1199.0
+2025-01-16,Electricity Bill,-2398.0
+2025-01-19,Flipkart Purchase,-1449.0
+2025-01-22,Internet Bill,-283.0
+2025-01-25,Zomato Order,-863.0
+2025-01-25,Cafe Coffee Day,-390.0
+2025-01-28,Rent Payment,-1586.0
+2025-01-31,Uber Ride,-2642.0
+2025-02-03,Electricity Bill,-1319.0
+2025-02-03,Internet Bill,-1044.0
+2025-02-06,Zomato Order,-2548.0
+2025-02-06,Fuel Station,-2051.0
+2025-02-09,Spotify,-2752.0
+2025-02-09,Spotify,-1707.0
+2025-02-12,Grocery Store,-2893.0
+2025-02-12,Flipkart Purchase,-1572.0
+2025-02-15,Electricity Bill,-1275.0
+2025-02-15,Spotify,-859.0
+2025-02-18,Ola Ride,-2504.0
+2025-02-21,Swiggy Order,-2727.0
+2025-02-21,Netflix,-1343.0
+2025-02-24,Flipkart Purchase,-887.0
+2025-02-24,Swiggy Order,-1410.0
+2025-02-27,Ola Ride,-1965.0
+2025-02-27,Cafe Coffee Day,-2101.0
+2025-03-02,Movie Ticket,-1254.0
+2025-03-02,Flipkart Purchase,-502.0
+2025-03-05,Electricity Bill,-2351.0
+2025-03-05,Grocery Store,-147.0
+2025-03-08,Spotify,-449.0
+2025-03-11,Rent Payment,-493.0
+2025-03-11,Spotify,-1959.0
+2025-03-14,Pharmacy,-736.0
+2025-03-17,Ola Ride,-2144.0
+2025-03-20,Netflix,-2183.0
+2025-03-20,Zomato Order,-2408.0
+2025-03-23,Internet Bill,-1598.0
+2025-03-23,Grocery Store,-1073.0
+2025-03-26,Electricity Bill,-1255.0
+2025-03-29,Spotify,-560.0
+2025-03-29,Movie Ticket,-666.0
+2025-04-01,Salary Credit,50000.0
+2025-04-01,Ola Ride,-2858.0
+2025-04-04,Spotify,-747.0
+2025-04-04,Swiggy Order,-2126.0
+2025-04-07,Ola Ride,-2248.0
+2025-04-07,Uber Ride,-1101.0
+2025-04-10,Cafe Coffee Day,-2430.0
+2025-04-10,Zomato Order,-2338.0
+2025-04-13,Amazon Purchase,-746.0
+2025-04-16,Amazon Purchase,-543.0
+2025-04-19,Pharmacy,-2008.0
+2025-04-22,Cafe Coffee Day,-586.0
+2025-04-22,Grocery Store,-2677.0
+2025-04-25,Movie Ticket,-149.0
+2025-04-25,Fuel Station,-1456.0
+2025-04-28,Internet Bill,-1088.0
+2025-04-28,Fuel Station,-1811.0
+2025-05-01,Salary Credit,50000.0
+2025-05-01,Rent Payment,-2747.0
+2025-05-01,Ola Ride,-2623.0
+2025-05-04,Rent Payment,-2479.0
+2025-05-07,Internet Bill,-2373.0
+2025-05-10,Ola Ride,-1794.0
+2025-05-10,Netflix,-2624.0
+2025-05-13,Flipkart Purchase,-2395.0
+2025-05-16,Rent Payment,-1200.0
+2025-05-16,Cafe Coffee Day,-1032.0
+2025-05-19,Ola Ride,-1822.0
+2025-05-19,Rent Payment,-1354.0
+2025-05-22,Netflix,-950.0
+2025-05-22,Movie Ticket,-2048.0
+2025-05-25,Ola Ride,-388.0
+2025-05-28,Electricity Bill,-261.0
+2025-05-28,Cafe Coffee Day,-2060.0
+2025-05-31,Netflix,-2546.0
+2025-06-03,Rent Payment,-390.0
+2025-06-03,Movie Ticket,-2331.0
+2025-06-06,Amazon Purchase,-365.0
+2025-06-09,Cafe Coffee Day,-2149.0
+2025-06-09,Movie Ticket,-1010.0
+2025-06-12,Zomato Order,-1106.0
+2025-06-15,Ola Ride,-2403.0
+2025-06-15,Amazon Purchase,-2724.0
+2025-06-18,Grocery Store,-2146.0
+2025-06-18,Uber Ride,-2687.0
+2025-06-21,Internet Bill,-2760.0
+2025-06-24,Spotify,-1890.0
+2025-06-24,Flipkart Purchase,-2970.0
+2025-06-27,Spotify,-2667.0
+2025-06-30,Movie Ticket,-1764.0
+2025-06-30,Amazon Purchase,-1355.0
+2025-07-03,Zomato Order,-2669.0
+2025-07-06,Internet Bill,-1094.0
+2025-07-09,Movie Ticket,-1551.0
+2025-07-12,Ola Ride,-2292.0
+2025-07-12,Rent Payment,-111.0
+2025-07-15,Zomato Order,-908.0
+2025-07-18,Ola Ride,-2048.0
+2025-07-21,Cafe Coffee Day,-2197.0
+2025-07-21,Cafe Coffee Day,-466.0
+2025-07-24,Uber Ride,-2132.0
+2025-07-27,Electricity Bill,-2240.0
+2025-07-27,Movie Ticket,-1950.0
+2025-07-30,Zomato Order,-2994.0
+2025-08-02,Pharmacy,-1058.0
+2025-08-02,Cafe Coffee Day,-1229.0
+2025-08-05,Internet Bill,-1191.0
+2025-08-05,Electricity Bill,-1540.0
+2025-08-08,Netflix,-330.0
+2025-08-08,Movie Ticket,-863.0
+2025-08-11,Cafe Coffee Day,-2226.0
+2025-08-11,Spotify,-2575.0
+2025-08-14,Zomato Order,-1758.0
+2025-08-17,Zomato Order,-2528.0
+2025-08-20,Swiggy Order,-620.0
+2025-08-20,Uber Ride,-1730.0
+2025-08-23,Movie Ticket,-2554.0
+2025-08-23,Internet Bill,-2329.0
+2025-08-26,Spotify,-360.0
+2025-08-29,Electricity Bill,-1400.0
+2025-09-01,Salary Credit,50000.0
+2025-09-01,Swiggy Order,-2422.0
+2025-09-01,Internet Bill,-2809.0
+2025-09-04,Rent Payment,-118.0
+2025-09-07,Electricity Bill,-347.0
+2025-09-07,Ola Ride,-1769.0
+2025-09-10,Movie Ticket,-1524.0
+2025-09-13,Fuel Station,-1042.0
+2025-09-16,Pharmacy,-2250.0
+2025-09-19,Amazon Purchase,-1008.0
+2025-09-19,Fuel Station,-1212.0
+2025-09-22,Netflix,-1119.0
+2025-09-22,Electricity Bill,-594.0
+2025-09-25,Ola Ride,-204.0
+2025-09-28,Rent Payment,-795.0
+2025-09-28,Electricity Bill,-1330.0
+2025-10-01,Salary Credit,50000.0
+2025-10-01,Pharmacy,-1510.0
+2025-10-04,Fuel Station,-1365.0
+2025-10-04,Pharmacy,-1389.0
+2025-10-07,Movie Ticket,-1016.0
+2025-10-07,Zomato Order,-1991.0
+2025-10-10,Fuel Station,-996.0
+2025-10-10,Uber Ride,-645.0
+2025-10-13,Amazon Purchase,-2415.0
+2025-10-13,Movie Ticket,-2604.0
+2025-10-16,Netflix,-1889.0
+2025-10-16,Electricity Bill,-921.0
+2025-10-19,Ola Ride,-2274.0
+2025-10-19,Flipkart Purchase,-534.0
+2025-10-22,Pharmacy,-2997.0
+2025-10-22,Swiggy Order,-2924.0
+2025-10-25,Movie Ticket,-2094.0
+2025-10-28,Netflix,-2591.0
+2025-10-31,Grocery Store,-2251.0
+2025-10-31,Zomato Order,-2732.0
+2025-11-03,Internet Bill,-1813.0
+2025-11-03,Amazon Purchase,-2343.0
+2025-11-06,Zomato Order,-830.0
+2025-11-09,Netflix,-2277.0
+2025-11-09,Ola Ride,-905.0
+2025-11-12,Zomato Order,-1069.0
+2025-11-15,Flipkart Purchase,-2284.0
+2025-11-15,Grocery Store,-1507.0
+2025-11-18,Grocery Store,-354.0
+2025-11-21,Cafe Coffee Day,-934.0
+2025-11-24,Spotify,-1037.0
+2025-11-27,Ola Ride,-2227.0
+2025-11-30,Cafe Coffee Day,-1738.0
+2025-12-03,Rent Payment,-1165.0
+2025-12-03,Uber Ride,-524.0
+2025-12-06,Amazon Purchase,-2824.0
+2025-12-09,Ola Ride,-2207.0
+2025-12-12,Flipkart Purchase,-2313.0
+2025-12-12,Amazon Purchase,-1210.0
+2025-12-15,Pharmacy,-1096.0
+2025-12-18,Amazon Purchase,-2512.0
+2025-12-18,Ola Ride,-2642.0
+2025-12-21,Ola Ride,-1852.0
+2025-12-21,Netflix,-1662.0
+2025-12-24,Amazon Purchase,-2740.0
+2025-12-24,Rent Payment,-1926.0
